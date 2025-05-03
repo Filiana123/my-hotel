@@ -1,0 +1,32 @@
+[
+  {
+    "id": 101,
+    "type": "Standard",
+    "price": 350000,
+    "isAvailable": true
+  },
+  {
+    "id": 102,
+    "type": "Deluxe",
+    "price": 500000,
+    "isAvailable": false
+  },
+  {
+    "id": 103,
+    "type": "Suite",
+    "price": 750000,
+    "isAvailable": true
+  },
+  {
+    "id": 104,
+    "type": "Deluxe",
+    "price": 500000,
+    "isAvailable": true
+  },
+  {
+    "id": 105,
+    "type": "VIP",
+    "price": 3500000,
+    "isAvailable": true
+  }
+]
