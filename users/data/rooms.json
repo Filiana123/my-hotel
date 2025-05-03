@@ -15,7 +15,7 @@
     "id": 103,
     "type": "Suite",
     "price": 750000,
-    "isAvailable": true
+    "isAvailable": false
   },
   {
     "id": 104,
@@ -27,6 +27,6 @@
     "id": 105,
     "type": "VIP",
     "price": 3500000,
-    "isAvailable": true
+    "isAvailable": false
   }
 ]

@@ -100,7 +100,7 @@ export async function POST(req: NextRequest) {
     const harga = roomData.harga;
 
     const newBooking = {
-        id: Date.now() / 1000,
+        id: Date.now(),
         ...body,
         check_in: getTodayFormatted(),
         check_out: "",
